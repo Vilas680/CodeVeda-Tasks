@@ -1,6 +1,0 @@
-Weather Details
----------------------
-City: Mumbai
-Temperature: 31 °C
-Humidity: 70 %
-Weather: haze
