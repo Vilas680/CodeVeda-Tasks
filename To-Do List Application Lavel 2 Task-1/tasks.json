@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Python",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "title": "Practice GitHub",
+        "status": "Done"
+    }
+]
